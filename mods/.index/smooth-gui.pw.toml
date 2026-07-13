@@ -1,0 +1,18 @@
+filename = 'smoothgui-neoforge-2.0.1+mc1.21.jar'
+name = 'Smooth Gui'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.1+neoforge-1.21'
+
+[download]
+hash = 'd6ab61ffb8e0a113010779ab701c1f313377c9ebcf32f891a21d3ca22c95270c26b8c01f7deb4d51954764a9db7be2e8d2e07cd32fd907870f1799e55360ff87'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j6yrZogB/versions/41wQBB9A/smoothgui-neoforge-2.0.1%2Bmc1.21.jar'
+
+[update.modrinth]
+mod-id = 'j6yrZogB'
+version = '41wQBB9A'

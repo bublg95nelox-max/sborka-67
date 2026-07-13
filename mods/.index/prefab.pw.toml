@@ -1,0 +1,18 @@
+filename = 'prefab-neoforge-1.0.8.jar'
+name = 'Prefab'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.8'
+
+[download]
+hash = '8e1dc18a061b848360c101b76bda73a2e66b8c0dc29587e5c977684b643d8d206c26dbf0a522781a0ae47061119e7564c66d6542e350c24cf58e8ed30f7f7275'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pTJ1ZloG/versions/o8YGzw7G/prefab-neoforge-1.0.8.jar'
+
+[update.modrinth]
+mod-id = 'pTJ1ZloG'
+version = 'o8YGzw7G'

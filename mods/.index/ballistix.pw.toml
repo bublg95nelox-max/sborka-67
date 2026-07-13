@@ -1,0 +1,29 @@
+filename = 'ballistix-1.21.1-1.0.5.jar'
+name = 'Ballistix'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.0.5'
+
+[download]
+hash = '95c4ac2c7ae585dc3e925fa7cb6955a29bf7813e9f75559e64faed1c0d2bd2fd1963b49cabdcc3515db32a6df9a0caf43e17cb9fa5fe89ecfbd7679d47409efc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XeEYk41R/versions/q7jOKA2V/ballistix-1.21.1-1.0.5.jar'
+
+[update.modrinth]
+mod-id = 'XeEYk41R'
+version = 'q7jOKA2V'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'xmhmr70o'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'aH4Sud5i'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kzF5itx6'
+type = 'REQUIRED'

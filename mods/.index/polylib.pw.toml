@@ -1,0 +1,21 @@
+filename = 'polylib-2100.0.3-build.160-neoforge.jar'
+name = 'PolyLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2100.0.3-build.160'
+
+[download]
+hash = 'b7125a12483b1677caefcf2fbedff1de77135f4c39aad0a43c56bd14d84315674af95b4880e8db67858a6472e30cc724438e6615ef01e82d4463a5c8bc7a1888'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6lvkzFFj/versions/LIHrMxOh/polylib-2100.0.3-build.160-neoforge.jar'
+
+[update.modrinth]
+mod-id = '6lvkzFFj'
+version = 'LIHrMxOh'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

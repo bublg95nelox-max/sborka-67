@@ -1,0 +1,21 @@
+filename = 'blastcraft-1.21.1-0.6.2.jar'
+name = 'Blastcraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-0.6.2'
+
+[download]
+hash = '8a4594555476820a8c00bef0fcc89369fc7e397f3bd11bb1a380d93da93e305d9ade6fba682434b035e4269dc5f2fa332dd14a537babb989feda371e953636bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qzSqkQKb/versions/DjndBuNm/blastcraft-1.21.1-0.6.2.jar'
+
+[update.modrinth]
+mod-id = 'qzSqkQKb'
+version = 'DjndBuNm'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kzF5itx6'
+type = 'REQUIRED'

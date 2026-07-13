@@ -1,28 +1,34 @@
-# 1. Игнорируем вообще всё на свете
-*
+# Игнорируем временные папки, логи и кэш
+.cache/
+.mixin.out/
+.sable/
+cache/
+crash-reports/
+downloads/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+fancymenu_data/
+local/
+logs/
+moddata/
+screenshots/
+server-resource-packs/
 
-# 2. РАЗРЕШЕННЫЕ КОРНЕВЫЕ ПАПКИ (открываем к ним доступ)
-!mods/
-!resourcepacks/
-!shaderpacks/
-!texturepacks/
+# Личные сохранения, бэкапы и карты
+saves/
+xaero/
+XaeroWaypoints_BACKUP240807/
 
-# 3. МАГИЯ ДЛЯ ПАПКИ CONFIG
-# Разрешаем Гиту зайти в саму папку config
-!config/
-# Но при этом игнорируем абсолютно всё, что находится внутри config...
+# Мелкий мусор
+.qmenu_opened.marker
+command_history.txt
+patchouli_data.json
+ponders_watched.json
+servers.dat_old
+usercache.json
+usernamecache.json
+
+# ИГНОРИРУЕМ ВСЕ КОНФИГИ, КРОМЕ ДВУХ НУЖНЫХ
 config/*
-# ...КРОМЕ двух твоих любимых папок!
 !config/fancymenu/
 !config/ftbquests/
-
-# 4. РАЗРЕШЕННЫЕ ФАЙЛЫ В КОРНЕ
-!emi.json
-!icon.png
-!servers.dat
-!.gitignore
-!update.bat
-
-# 5. СИСТЕМНОЕ ПРАВИЛО
-# Разрешает Гиту заглядывать внутрь ВСЕХ разрешенных папок на любую глубину
-!*/
