@@ -18,6 +18,10 @@ server-resource-packs/
 saves/
 xaero/
 XaeroWaypoints_BACKUP240807/
+options.txt
+emi.json
+defaultconfigs/
+data/
 
 # Мелкий мусор
 .qmenu_opened.marker
