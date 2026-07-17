@@ -1,0 +1,40 @@
+filename = 'Unique Dark - Lite - 1.20.2-26.x.zip'
+name = 'Unique Dark'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.7'
+
+[download]
+hash = '5d72f81a733d1f231fdfccdce580753b01de0e796e7f854ad35c2a34531d1cd73cda34d84b21b8c8b7e128e7f1b8cc1a0d1f29706028e4a5c1f3b1b0d903c6df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BaY1UdGV/versions/dGG8uRLe/Unique Dark - Lite - 1.20.2-26.x.zip'
+
+[update.modrinth]
+mod-id = 'BaY1UdGV'
+version = 'dGG8uRLe'
