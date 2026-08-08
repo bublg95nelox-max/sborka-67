@@ -1,0 +1,18 @@
+filename = 'Mystical-Garden-Cloches-1.1.3.jar'
+name = 'Mystical Garden Cloches'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Mystical Garden Cloches 1.1.3'
+
+[download]
+hash = '05e251afd7dd9449575035706dcf49e384ef1351'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7280558
+project-id = 1207027

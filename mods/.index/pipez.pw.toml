@@ -1,28 +1,20 @@
-filename = 'pipez-neoforge-1.21.1-1.2.31.jar'
+filename = 'pipez-neoforge-1.21.1-1.2.19.jar'
 name = 'Pipez'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '[NEOFORGE][1.21.1] Pipez 1.21.1-1.2.31'
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '[NEOFORGE][1.21.1] Pipez 1.21.1-1.2.19'
 
 [download]
-hash = 'a5671f7e8d38dfc092ace4091250e8f9e1245e1e'
+hash = '760c1cd20e6e47ef86bd48ece413873cccddc972'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8351631
+file-id = 5757713
 project-id = 443900
-
-[[x-prismlauncher-dependencies]]
-addonId = '268560'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '324717'
-type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '238222'
@@ -30,4 +22,12 @@ type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '245211'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
 type = 'OPTIONAL'

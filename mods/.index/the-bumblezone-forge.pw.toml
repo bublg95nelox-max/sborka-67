@@ -1,0 +1,25 @@
+filename = 'the_bumblezone-7.11.9+1.21.1-neoforge.jar'
+name = 'The Bumblezone (NeoForge/Forge)'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'The Bumblezone v7.11.9 (1.21.1 MC Neoforge)'
+
+[download]
+hash = '80c17c05c2c7b43085c6941d7031030dfd5e18ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7616786
+project-id = 362479
+
+[[x-prismlauncher-dependencies]]
+addonId = '272515'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '570073'
+type = 'REQUIRED'

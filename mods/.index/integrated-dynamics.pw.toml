@@ -1,0 +1,25 @@
+filename = 'integrateddynamics-1.21.1-neoforge-1.31.0.jar'
+name = 'Integrated Dynamics'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'integrateddynamics-1.21.1-neoforge-1.31.0.jar'
+
+[download]
+hash = 'e49337055c9ff11616c40aa05d1972bd2d9c08c6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7638007
+project-id = 236307
+
+[[x-prismlauncher-dependencies]]
+addonId = '232758'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '247007'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'guardvillagers-2.4.5-1.21.1.jar'
+name = 'Guard Villagers'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'guardvillagers-2.4.5-1.21.1.jar'
+
+[download]
+hash = '5b4ae24ee9f7e2e6e941a2027f4c59e0c3f557fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7306932
+project-id = 360203

@@ -1,0 +1,33 @@
+filename = 'rechiseled-1.2.3-neoforge-mc1.21.jar'
+name = 'Rechiseled'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Rechiseled 1.2.3 for NeoForge 1.21'
+
+[download]
+hash = 'baca4e3dbfb915f28d8d18ee50e1c8d32d22d380'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7619132
+project-id = 558998
+
+[[x-prismlauncher-dependencies]]
+addonId = '854949'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '438332'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '454372'
+type = 'REQUIRED'

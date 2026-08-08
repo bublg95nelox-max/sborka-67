@@ -1,29 +1,29 @@
-filename = 'rftoolsutility-1.21-7.0.12.jar'
+filename = 'rftoolsutility-1.21-7.0.10.jar'
 name = 'RFTools Utility'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.21-7.0.12'
+x-prismlauncher-version-number = 'RFToolsUtility - 1.21-7.0.10'
 
 [download]
-hash = 'ab46b45e8b867fbdeb8c8b69a219088d748727d34c1fa947383ed24370fd2111863f3cf373c100647406fcde8dc51522f2ceb02ccf1dbe0e827aa17fb1a323aa'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/7n3HbHSE/versions/xOoMr4zS/rftoolsutility-1.21-7.0.12.jar'
+hash = 'b4eae11cdfe7b26eb4217c926514b2919d51a887'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '7n3HbHSE'
-version = 'xOoMr4zS'
+[update.curseforge]
+file-id = 7263408
+project-id = 342466
 
 [[x-prismlauncher-dependencies]]
-addonId = 'hIO8IsD8'
+addonId = '326041'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '1Zu0uTEE'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Eyw0UxEx'
+addonId = '245211'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '233105'
+type = 'REQUIRED'

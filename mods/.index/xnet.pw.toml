@@ -1,29 +1,29 @@
-filename = 'xnet-1.21-7.0.7.jar'
+filename = 'xnet-1.21-7.0.6.jar'
 name = 'XNet'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.21-7.0.7'
+x-prismlauncher-version-number = 'XNet - 1.21-7.0.6'
 
 [download]
-hash = '128e13585d1036c4bc3f8cd7a373a8e1e16ce19181f2e4afbeb6a1eefd43c811fa58555f461dbdae99d1e831eb171945285b6dabe267cbed8fd5027a1632e283'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/iu1jkWqa/versions/lvCo0M5N/xnet-1.21-7.0.7.jar'
+hash = 'a4f91c5652955bdf60a0c377448a275eeccdb841'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'iu1jkWqa'
-version = 'lvCo0M5N'
+[update.curseforge]
+file-id = 6563957
+project-id = 260912
 
 [[x-prismlauncher-dependencies]]
-addonId = 'Eyw0UxEx'
+addonId = '245211'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '1Zu0uTEE'
+addonId = '233105'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'hIO8IsD8'
+addonId = '326041'
 type = 'REQUIRED'
