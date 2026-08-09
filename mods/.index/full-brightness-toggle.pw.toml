@@ -1,0 +1,21 @@
+filename = 'fullbrightnesstoggle-1.21.1-4.4.jar'
+name = 'Full Brightness Toggle'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 1.21.1-4.4 | Full Brightness Toggle'
+
+[download]
+hash = 'cdd44cb96d5803741b5fad710f140b82d638abcb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7059688
+project-id = 391656
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'
