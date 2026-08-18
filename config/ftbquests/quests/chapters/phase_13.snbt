@@ -1,0 +1,228 @@
+{
+	autofocus_id: "13CF7B58FA3EB3A9"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_13"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:end_stone"
+	}
+	id: "3906A236BA118594"
+	order_index: 13
+	quest_links: [ ]
+	quests: [
+		{
+			id: "534383217E30131B"
+			rewards: [{
+				id: "3DC5A9CD64022B99"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6E96BB47B347558E"
+				item: { count: 1, id: "minecraft:end_stone_bricks" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "50273388B1803E58"
+			rewards: [{
+				id: "6A49DD62F10434DF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "28C0778659FFD37F"
+				item: { count: 1, id: "minecraft:purpur_pillar" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "6619D38369A6BF04"
+			rewards: [{
+				id: "2EB140752AFAF5F0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7A8D3E02CF49D9F2"
+				item: { count: 1, id: "minecraft:end_stone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "5C2EB25B8C0DF73F"
+			rewards: [{
+				id: "165348FC45AE5019"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "59762E6F52CC6F57"
+				item: { count: 1, id: "minecraft:purpur_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "16C584A4A2991F33"
+			tasks: [{
+				icon: {
+					id: "minecraft:end_portal_frame"
+				}
+				id: "111413CE5D6C388E"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:end_portal_frame"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "1C456F7630B51F1C"
+			rewards: [{
+				id: "6B13C0D29AFE43A1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "11E2C28C8B886DFB"
+				item: { count: 1, id: "minecraft:chorus_fruit" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "6BD3DA18C44E022A"
+			rewards: [{
+				id: "1644B3C7CEE7E513"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7733A3A8838F6B46"
+				item: { count: 1, id: "minecraft:dragon_breath" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "3BEBC8335AC0ADA7"
+			rewards: [{
+				id: "7E17F325A4251142"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "100DCE99B14D0DC5"
+				item: { count: 1, id: "minecraft:end_rod" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "6BB4B4C762C3F9C4"
+			rewards: [{
+				id: "4D86F31F0EFEF8E8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5A6F99B736E42239"
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "49F4B152BE651E1D"
+			rewards: [{
+				id: "22D31E7212CA9C1A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "50EDC801CA8E6671"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "0C16DEE7D90F2245"
+			rewards: [{
+				id: "26D115B9267AA390"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "69AE478661644EDF"
+				item: { count: 1, id: "minecraft:spectral_arrow" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "7A1EF62D22D61F64"
+			rewards: [{
+				id: "3C5805B729130BC0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "528FCF0FEDB18627"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "063FE72E069D578C"
+			rewards: [{
+				id: "7DF02C28A2632256"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "56F3E5776E6BEC6D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "4E29158E404ED9CA"
+			rewards: [{
+				id: "33CEF8CCDDB23D08"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:endermite"
+				id: "392CB88812587C46"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+	]
+}

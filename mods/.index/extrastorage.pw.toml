@@ -1,0 +1,25 @@
+filename = 'ExtraStorage-1.21.1-5.0.2.jar'
+name = 'ExtraStorage'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'ExtraStorage-1.21.1-5.0.2'
+
+[download]
+hash = '943e6e942d8174aa686f155955fcfa5abc144ed7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6426944
+project-id = 410168
+
+[[x-prismlauncher-dependencies]]
+addonId = '243076'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '638508'
+type = 'REQUIRED'

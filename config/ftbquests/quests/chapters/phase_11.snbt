@@ -1,0 +1,274 @@
+{
+	autofocus_id: "34DBEBC360894EA9"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_11"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:red_mushroom_block"
+	}
+	id: "24530BBF172EF6A8"
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3D26B5F47880B950"
+			rewards: [{
+				id: "678BC31F3BEC4832"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6D328B2ADFC298A3"
+				item: { count: 1, id: "minecraft:chiseled_stone_bricks" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "5EB118FCB5708F95"
+			rewards: [{
+				id: "62747B524C2B4478"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6140F90B06C20049"
+				item: { count: 1, id: "minecraft:mossy_stone_bricks" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "21018C68D159EAFB"
+			rewards: [{
+				id: "2233BE4D5297330C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "63D1B9DA722207EB"
+				item: { count: 1, id: "minecraft:stone_bricks" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "1D6054C0930A8381"
+			rewards: [{
+				id: "4CCA82BE2CE03080"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "03248A6D27D3CAFF"
+				item: { count: 1, id: "minecraft:cracked_stone_bricks" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "5E4BDAE76A903275"
+			rewards: [{
+				id: "4AF3CD1BEB86B1B3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "028077B83C22450D"
+				item: { count: 1, id: "minecraft:bone_block" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "3E22EA270A605804"
+			rewards: [{
+				id: "7548FE964C089164"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "23DB2838986DEDC7"
+				item: { count: 1, id: "minecraft:jack_o_lantern" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "71669984A5EB7050"
+			rewards: [{
+				id: "798210F1697A3870"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1CD2599A4061A8B5"
+				item: { count: 1, id: "minecraft:mycelium" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "676ACEEA132CD17F"
+			rewards: [{
+				id: "14FA0EF87FC6F198"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6B8D2CFB16BC24C2"
+				item: { count: 1, id: "minecraft:cobweb" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "492BEC485767DC39"
+			rewards: [{
+				id: "73C8266E5D1C12F3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "61F1AB17C5FD249B"
+				item: { count: 1, id: "minecraft:fermented_spider_eye" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "32C8DDE986514843"
+			rewards: [{
+				id: "6AC47C2FB242D1AC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "536C965E7F80E38D"
+				item: { count: 1, id: "minecraft:gunpowder" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "15F74F08BF8BD8EC"
+			rewards: [{
+				id: "350A0480399ED3D5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "63060ACD9E6A137D"
+				item: { count: 1, id: "minecraft:phantom_membrane" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "23FC5D7306402BDD"
+			rewards: [{
+				id: "59CC8587DEBD3BA2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "60917FD439B97F00"
+				item: { count: 1, id: "minecraft:poisonous_potato" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "752A2A02EB4DD3C4"
+			rewards: [{
+				id: "126E264DE95620EF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2925B65E5940D757"
+				item: { count: 1, id: "minecraft:rotten_flesh" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "6FC4AFA3D916205A"
+			rewards: [{
+				id: "689B012736169863"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:evoker"
+				id: "5B6099B87501079F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "74AE346A9EA29C61"
+			rewards: [{
+				id: "4A9AF8AE921E4D80"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				id: "62A9E2AC930CE92C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "697F10E41F36E521"
+			rewards: [{
+				id: "76BF6FB6DAAEC249"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:silverfish"
+				id: "7562D6CD4247BC9E"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "67827E8B16956B57"
+			rewards: [{
+				id: "05E98E9D3C0ACFBC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "286C56BD24D9687B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+	]
+}

@@ -1,0 +1,571 @@
+{
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_8"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:netherrack"
+	}
+	id: "0EF5F2378113C700"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "55A6F76DC909611A"
+			rewards: [{
+				id: "4FA6D33B229C2509"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "22430B3E632310DF"
+				item: { count: 1, id: "minecraft:basalt" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "4C2C1D7E8CE83D2A"
+			rewards: [{
+				id: "77B9A1670127082D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5302A5742AC20289"
+				item: { count: 1, id: "minecraft:blackstone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "4E39B3CB5176D0BF"
+			rewards: [{
+				id: "5DC3B96947AD90C5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6FA082FDCDE0B4D3"
+				item: { count: 1, id: "minecraft:soul_soil" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "7090378724F38E00"
+			rewards: [{
+				id: "31D760CCEAC7BF8C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4D0D5F482EE9FFD8"
+				item: { count: 1, id: "minecraft:soul_sand" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "3A16093BE725CCA4"
+			rewards: [{
+				id: "52766D64BA0C76E5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7302FF76C75AD78D"
+				item: { count: 1, id: "minecraft:warped_wart_block" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			id: "295DF13447BD7B4D"
+			rewards: [{
+				id: "7F5A4A588BFE209E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F2B390BC20FEE37"
+				item: { count: 1, id: "minecraft:warped_nylium" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "5BE4A78EC0FD03D2"
+			rewards: [{
+				id: "3ADC4AD9E4302232"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4A01B212F72680ED"
+				item: { count: 1, id: "minecraft:crimson_nylium" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "64518A8545EE8F73"
+			rewards: [{
+				id: "5E1B2B7C917AEC37"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "670F014A9EAED399"
+				item: { count: 1, id: "minecraft:nether_wart_block" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			id: "2966D160C2BBCCE6"
+			rewards: [{
+				id: "68ED51E57CED4D5D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3E7D8E8E9CFFD077"
+				item: { count: 1, id: "minecraft:magma_block" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "601B94A40552F6C7"
+			rewards: [
+				{
+					id: "34F1A180EF652250"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "455E0ADB44420EB9"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "01EB30609EBC7A0C"
+				item: { count: 1, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "66D7F80F3BDAB1D8"
+			rewards: [{
+				id: "2FF44DF6FA26D50B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7BE02E1CA147E29E"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "1E65098A2A9B851C"
+			rewards: [{
+				id: "03A17B766160EF1D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "38EEA89E0CC2EEFB"
+				item: { count: 1, id: "minecraft:crying_obsidian" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "324F2B8ADDE29A29"
+			rewards: [{
+				id: "4425D8D831EC7EF3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "69E5B8AEE51B8B99"
+				item: { count: 1, id: "minecraft:nether_bricks" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			id: "0435D99F4775E572"
+			rewards: [{
+				id: "669EB3BB662AA070"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "30597507EA68A4FE"
+				item: { count: 1, id: "minecraft:red_nether_bricks" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "7537D508CA2FBD34"
+			rewards: [{
+				id: "393BE1FC0FA8668E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2111CE1D254285A0"
+				item: { count: 1, id: "minecraft:shroomlight" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			id: "3F9811908921D1DF"
+			rewards: [{
+				id: "7413D0B5D9FD97DC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7C6E743FFA712796"
+				item: { count: 1, id: "minecraft:glowstone" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			id: "04B1FC4C847B4562"
+			rewards: [{
+				id: "4E2858DC646ABD6D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "07ABB49022FAFE2F"
+				item: { count: 1, id: "minecraft:quartz" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "4840D3D975FF1DBB"
+			rewards: [{
+				id: "6B3ED743636B27E1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "637473FCF71A686B"
+				item: { count: 1, id: "minecraft:ancient_debris" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "3818C23AE5A58F1A"
+			rewards: [{
+				id: "2729A72B7E85C50A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3A4BC1FE963AF3C2"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "633F0C3B44FCFDFE"
+			rewards: [{
+				id: "497DB4E3E9270FBF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B8C1FB7CF8127D2"
+				item: { count: 1, id: "minecraft:blaze_powder" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "16318139BD369B2A"
+			rewards: [{
+				id: "1193CC18783D87F0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3A777AB3D291CA56"
+				item: { count: 1, id: "minecraft:ghast_tear" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "7842F96833263516"
+			rewards: [{
+				id: "478E7F368E78C564"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "473D0C3EA80C047A"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "16B48E37FE590282"
+			rewards: [{
+				id: "55C393B3EDE169FB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "199CE1A79464EC6A"
+				item: { count: 1, id: "minecraft:magma_cream" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "06381ACDDB760944"
+			rewards: [{
+				id: "453150FF6B4AD58D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "55A1916BCFEC4DAA"
+				item: { count: 1, id: "minecraft:nether_sprouts" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "3D2AD4068F509623"
+			rewards: [{
+				id: "0F60D93DF6822D1A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "23B3F2A36C57ADC3"
+				item: { count: 1, id: "minecraft:nether_wart" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "5F8F4E1A9FB5F11A"
+			rewards: [{
+				id: "6B324CD872F4B189"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A8DF404ABE7A8A4"
+				item: { count: 1, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "2ABEEA0C25B49A11"
+			rewards: [{
+				id: "6CFABDFC12425ECA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "59BE9CB4DA4AF508"
+				item: { count: 1, id: "minecraft:twisting_vines" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			id: "1117A3A08A7168CA"
+			rewards: [{
+				id: "4E71A5529D438A81"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0AFCEE533F0F6B96"
+				item: { count: 1, id: "minecraft:weeping_vines" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "1A0692C220E1A1D7"
+			rewards: [{
+				id: "2BCF398968901A4B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "689B5BBE6596E3BA"
+				item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "66DEB92633A8CC9E"
+			rewards: [{
+				id: "69EC14FA9894321A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "6CA79F5703E07DBF"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "420D8A34C91A7D00"
+			rewards: [{
+				id: "30DDB55C5E270902"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:ghast"
+				id: "2D8585E4BF4CD5B6"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "3D2A59299C6DEA11"
+			rewards: [{
+				id: "3B10C5FBF96D7EAB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:hoglin"
+				id: "1BB921985C672380"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "56845B786BD5CC61"
+			rewards: [{
+				id: "64E9B7B7A77B9321"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				id: "2E41C91F97E9D0B8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "3E39D432336D7473"
+			rewards: [{
+				id: "7628631A86621977"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:piglin"
+				id: "0DCD7C85AA04AA34"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "0C0FC3916766ED38"
+			rewards: [{
+				id: "1CECF1B4A8C6C914"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:strider"
+				id: "5C4CD8AF9C1763D5"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			id: "0FDC44A23EED3BCB"
+			rewards: [{
+				id: "06EB1176489CCED9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "5FC4F9D5D9850CB7"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+	]
+}

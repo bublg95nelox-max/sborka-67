@@ -1,0 +1,238 @@
+{
+	autofocus_id: "0DDAE291F63CA48C"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_1"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:grass_block"
+	}
+	id: "03C2A984C632FB72"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5E8C55BDD7E71AA8"
+			rewards: [{
+				id: "078FC59437481A46"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6CA04EE613595549"
+				item: { count: 1, id: "minecraft:clay_ball" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "050C06CF34038ED6"
+			rewards: [{
+				id: "3255EFB71CDBA482"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2338E2855C5C48A6"
+				item: { count: 1, id: "minecraft:melon_slice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "010494474EE03D16"
+			rewards: [{
+				id: "345DF4FB1F7093FF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "77D770CD375F3BBF"
+				item: { count: 1, id: "minecraft:pumpkin" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "2FD26DC750B1A34C"
+			rewards: [
+				{
+					id: "15022B3C4749E38E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "1182B017D84E378F"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3BE2DBA2599E0501"
+				item: { count: 1, id: "minecraft:birch_log" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "7FC2E4EB4F25D58F"
+			rewards: [{
+				id: "5575C9B5D5967BC1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "760C3108FE60872F"
+				item: { count: 1, id: "minecraft:birch_sapling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "14A94D4AA2B13A07"
+			rewards: [{
+				id: "44C1E7182EEFB9C4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3DB27DD10F0C38F2"
+				item: { count: 1, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "4C7714388D2EFEAD"
+			rewards: [{
+				id: "2CED10E3F78A4CEF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3AFDF01B06DE0377"
+				item: { count: 1, id: "minecraft:leather" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "1806A0CE67A400AC"
+			rewards: [{
+				id: "7754257371DBD862"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7C190919E17B527B"
+				item: { count: 1, id: "minecraft:melon_seeds" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "56876ED28CC7FFA1"
+			rewards: [{
+				id: "3B1A50096E807C4E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "56B33F83581E5A66"
+				item: { count: 1, id: "minecraft:potato" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "61BF67CB948E5F31"
+			rewards: [{
+				id: "108EFCED60F57433"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "48D77F829756ADB2"
+				item: { count: 1, id: "minecraft:pumpkin_seeds" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "09092638FD701FF1"
+			rewards: [{
+				id: "10752FCB10B5C8C8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2D2C9690A4C14CD8"
+				item: { count: 1, id: "minecraft:sweet_berries" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "29FBC8AEDD243D12"
+			rewards: [{
+				id: "36392BB459115033"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:chicken"
+				id: "599DAFDDD7657552"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "606C315B0882CD05"
+			rewards: [{
+				id: "5D8E3B45B0B5D2BD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:cow"
+				id: "139238D02D06B8E8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "12FE936B71595137"
+			rewards: [{
+				id: "59AAD497D3074BF5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:sheep"
+				id: "0EA6168A8BAC1027"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+	]
+}

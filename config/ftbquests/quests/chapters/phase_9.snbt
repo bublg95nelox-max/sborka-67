@@ -1,0 +1,386 @@
+{
+	autofocus_id: "209C4FD004329722"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_9"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:poppy"
+	}
+	id: "0944ACF6B27FD4BD"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7EFD15839F8B42BB"
+			rewards: [{
+				id: "5C79732C1F600052"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0F94A367AF65665D"
+				item: { count: 1, id: "minecraft:bee_nest" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "7C51D91E0726D2FC"
+			rewards: [{
+				id: "761A147C142CC454"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "32D81552443020D1"
+				item: { count: 1, id: "minecraft:beehive" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "1326BCCD8166A672"
+			rewards: [{
+				id: "36BC2565C5DDF874"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "78E00AD009E73F7C"
+				item: { count: 1, id: "minecraft:honey_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "5E879150AF13B4F0"
+			rewards: [{
+				id: "090C39DC22526668"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "08ABF1C32930E8D6"
+				item: { count: 1, id: "minecraft:honeycomb_block" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "6B477840CE17D565"
+			rewards: [{
+				id: "77D8CDB82CA75116"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "512B1F62BEDB6113"
+				item: { count: 1, id: "minecraft:quartz_block" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "39785579B36C8DC9"
+			rewards: [{
+				id: "06CCE80AB487CE61"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "222A95BC9437C375"
+				item: { count: 1, id: "minecraft:slime_block" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			id: "39FC3B68E8391206"
+			rewards: [{
+				id: "6F2B05CEDFA02DC4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3322D5267AF5A1E8"
+				item: { count: 1, id: "minecraft:beetroot_soup" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "6A4B53A80208A3AD"
+			rewards: [{
+				id: "3E672A3866804547"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0B1534CBA6025AC3"
+				item: { count: 1, id: "minecraft:beetroot_seeds" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "14D5F2D92292A17C"
+			rewards: [{
+				id: "438DCDAAD4127528"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5F5D8BF102082CC2"
+				item: { count: 1, id: "minecraft:cake" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "140DDA35D025B9D1"
+			rewards: [{
+				id: "0BE9BDD4D856FB55"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7E7D23C11ADB3977"
+				item: { count: 1, id: "minecraft:fire_charge" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "2A296D72F62EF6D3"
+			rewards: [{
+				id: "18C00A38A2D56680"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "69313F76D6B93B6E"
+				item: { count: 1, id: "minecraft:glistering_melon_slice" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "03A76FD86FA7B755"
+			rewards: [{
+				id: "1B72E9B4BC601E32"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "75532578DC3D160D"
+				item: { count: 1, id: "minecraft:golden_carrot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "15565956936E45F9"
+			rewards: [{
+				id: "14EFBAB995661CF7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1B984B7E01CFB463"
+				item: { count: 1, id: "minecraft:honey_bottle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "7AAE9A9BAF6374F9"
+			rewards: [{
+				id: "043E4C67E62EFF11"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "354AC5B0F4D372D5"
+				item: { count: 1, id: "minecraft:honeycomb" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			id: "3387D95E48237D1F"
+			rewards: [{
+				id: "00954931B4590AE3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5DDD2EED0E0D116D"
+				item: { count: 1, id: "minecraft:iron_horse_armor" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "7737752760C1F272"
+			rewards: [{
+				id: "1095775E19BDEE6D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7C3FA35EEBC6A6C1"
+				item: { count: 1, id: "minecraft:saddle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "0F3D3065249AE35E"
+			rewards: [{
+				id: "4A8C3661ABE7606E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5D949519D93BC70F"
+				item: { count: 1, id: "minecraft:leather_horse_armor" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			id: "29BEE7A73E9422A1"
+			rewards: [{
+				id: "715F997FA7827BDB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:bee"
+				id: "78CFF5D28A36A57E"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "5A75A723E6E8B7A8"
+			rewards: [{
+				id: "125C34E8A0AF5C5C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:cat_spawn_egg"
+				}
+				id: "5137EBF04064BCCA"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:cat"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "33E7CCB5499473F9"
+			rewards: [{
+				id: "6A3707BDC20078F9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:mule"
+				id: "012F1956AA69E4F8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "75A54B587ABED2DC"
+			rewards: [{
+				id: "289D21AAC3D369CB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:phantom"
+				id: "7B3DD2245AEBE003"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "6A6A18EF342FF1BC"
+			rewards: [{
+				id: "36F987E456D6F3FD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton_horse"
+				id: "55DE08129EC07C87"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "10335191329ABCD9"
+			rewards: [{
+				id: "772ACDABC9B0DF0E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:zombie_horse"
+				id: "6CB70CC2BCE7A677"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			id: "43424CDDBF5DFF32"
+			rewards: [{
+				id: "2EA7BD97524C4748"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:slime"
+				id: "5A88FCC47AFD1BE3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+	]
+}

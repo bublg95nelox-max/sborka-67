@@ -1,0 +1,175 @@
+{
+	chapter.016AB6F1BDF4959B.title: "Welcome!"
+	chapter.03C2A984C632FB72.title: "Phase 1"
+	chapter.048FAAF539DF7E50.title: "Apotheosis"
+	chapter.0944ACF6B27FD4BD.title: "Phase 9"
+	chapter.0EF5F2378113C700.title: "Phase 8"
+	chapter.1768D141FEB96D52.title: "Shop"
+	chapter.24530BBF172EF6A8.title: "Phase 11"
+	chapter.26553335563EFE2C.title: "Phase 10"
+	chapter.283B038673A9E035.title: "Phase 2"
+	chapter.2BDFA4C9EB57E654.title: "Creative?!"
+	chapter.3119FEB0F955AB8D.title: "ProjectE"
+	chapter.37312981E5E36066.title: "First steps"
+	chapter.3906A236BA118594.title: "Phase 13"
+	chapter.419B0ADF0731AA08.title: "Phase 5"
+	chapter.430E91BE8B51E529.title: "Occultism"
+	chapter.4D47D2E2EB0E0983.title: "Phase 6"
+	chapter.4F82E1B7CA476CE0.title: "Phase 3"
+	chapter.5D41349A931D80B6.title: "Road to automation"
+	chapter.5DA0072ADA09CB8D.title: "Phase 4"
+	chapter.6176BCDBC576D123.title: "Phase 12"
+	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
+	chapter.6F3B917A75996A04.title: "Phase 7"
+	chapter.7C5D2A8D63C2B218.title: "Create"
+	chapter.7DE4494FA323FC31.title: "Tips"
+	chapter_group.25E69D163A542113.title: "Progression"
+	chapter_group.496212AF8A6ADFE9.title: "Magic"
+	chapter_group.652D2FC0D098BC99.title: "misc"
+	quest.031FE07F772300F4.title: "Vexing archwood sapling"
+	quest.03314113E694FE10.quest_desc: [
+		"The Dictionary of spirits is a handbook of what you need to progress trough the mod."
+		"by al means, the Dictionary is leading and the quests are not."
+	]
+	quest.03314113E694FE10.title: "Dictionary of spirits"
+	quest.09213B7CC69BABB1.quest_desc: ["Here you'll find some Tips for the modpack"]
+	quest.09213B7CC69BABB1.title: "Tips!"
+	quest.0B64C0BEEC614007.quest_desc: [
+		"Many misc items are not obtainable till you have at least one of them. "
+		"To get the first one of many you'll need a wandering trader to spawn."
+	]
+	quest.0B64C0BEEC614007.title: "Wandering traders"
+	quest.0BDDF38F519C44E0.quest_desc: ["Because Phantoms spawn in phase 9 you don't have to deal with them till then."]
+	quest.0BDDF38F519C44E0.title: "Disable Phantoms"
+	quest.0E5F9BB8FF2BEC90.quest_desc: [
+		"In this modpack there are also building stick."
+		""
+		"they can help you with building large area's quickly."
+	]
+	quest.0E5F9BB8FF2BEC90.title: "Building Sticks"
+	quest.11A48A505A9E949B.title: "Automation"
+	quest.131569B94DFCB7A1.quest_desc: [
+		"if you ever fall in the void. don't worry!"
+		"this modpack has the forgiving void. This means two things:"
+		""
+		"Fall back down from the sky when falling into the void"
+		"Always survive the fall as long as you had full health"
+		""
+		"so as long as you have full health you'll be fine!"
+	]
+	quest.131569B94DFCB7A1.title: "Forgiving void"
+	quest.1561E634A3EF3FD2.title: "Cocoa Beans"
+	quest.18CE88AC4CDB272C.quest_desc: [
+		"In This modpack you don't need to be below a block to place one under it."
+		"you can place blocks under other blocks just from looking below the block you are standing on."
+		""
+		"This is very handy for the oneblock since gravel and sand will still drop. so place your first block below so it doesn't fall to the void!"
+	]
+	quest.18CE88AC4CDB272C.title: "Building tips"
+	quest.1C5A69E1BFCA2DE5.quest_desc: [
+		"This is the only way to get spawners!"
+		""
+		"don't forget to have a pickaxe with silk touch so you can pick the spawner up again"
+	]
+	quest.1C5A69E1BFCA2DE5.title: "Spawner"
+	quest.1C89AFB5F0421558.title: "Vannila max"
+	quest.1D34641C1FC34525.quest_desc: [
+		"To start with projectE, you first want to create a Philosopher's stone."
+		""
+		"with this item you have a crafting bench always with you with the key \"C\""
+		"you can also transmute blocks into another with rightclick"
+		""
+		"and last but not least, you can turn 4 iron to 1 gold or in reverse. "
+	]
+	quest.25790BE64911F3B0.title: "This quest line is still work in progress and changes will happen"
+	quest.2AA2BA1838700D83.title: "Villager"
+	quest.2C458CCF1C0AC776.quest_desc: ["once you have the funnel you can automate it completely by adding it to the top of the one block into a chest/barrel/vault."]
+	quest.2FB4478B4CC09D8A.title: "Cow"
+	quest.301A4E2E23ECBFDE.quest_desc: [
+		"Enchanting from vannila minecraft is great and all but it could be better!"
+		""
+		"With this mod the max enchanting will go up for every enchant that has levels."
+		"For example, Fortune can now go to level 8! for this you do require some stuff."
+	]
+	quest.301A4E2E23ECBFDE.title: "Where enchanting begins"
+	quest.336DC6988D5E1BF7.title: "Bombegranate"
+	quest.37106CD84F5BA386.quest_desc: ["For the Gatewaypearl in the crafting recipe, you can use any Gateway pearl."]
+	quest.37BF6F507C4114E5.quest_desc: [
+		"Getting sick of those creepers blowing up your island?"
+		"then you can start claiming your island!"
+		"claiming prevents mob and player grieving if they are not allied/part of your party."
+	]
+	quest.37BF6F507C4114E5.title: "Claiming"
+	quest.3E6816253E94BF59.quest_desc: [
+		"Thank you so much for playing till the end! "
+		"I hope you truly enjoyed the whole modpack."
+		""
+		"This is my first true modpack where i took the time to balance and create quests for."
+		"so if you are not in the discord already do join. "
+		"Because i will make more!"
+	]
+	quest.40DBF4EA3FDCC1A0.quest_desc: [
+		"&lWelcome!&r"
+		""
+		"Thank you so much for trying out my modpack — I really appreciate it!"
+		""
+		"This pack is still a work in progress, and your feedback is incredibly valuable. If you encounter bugs, have suggestions, or just want to share your thoughts, feel free to reach out by joining my discord server. Your input helps make this modpack better and more enjoyable for everyone."
+		""
+		"Have fun!"
+	]
+	quest.40DBF4EA3FDCC1A0.title: "Welcome!"
+	quest.41736162E218029C.title: "Frostaya"
+	quest.44A07E9BCD91F955.title: "Flourishing archwood sapling"
+	quest.4E4DECB5DF5B8577.quest_desc: ["Emergency rations for if you are starving"]
+	quest.4E4DECB5DF5B8577.title: "Rations"
+	quest.529CB6FC31D2F3BA.title: "Chicken"
+	quest.5CF441870139D2B0.title: "Farmer delight start"
+	quest.5E83B588C03E81D0.quest_desc: [
+		"Here you'll find a shop for mods that are not accessible normally"
+		""
+		"There also is a way to craft coins if you don't have enough to buy the things you need"
+	]
+	quest.63E64DC68113FF69.title: "Pig"
+	quest.69649C1450CC9DCB.quest_desc: [
+		"A hopper below does not immediately work since the block teleport to the top of the one block"
+		""
+		"if you do want to do this with a hopper. you have to change the config (One Block to Create All\\config\\oneblock-common.toml) CollectItem = true to false"
+	]
+	quest.69CDD3148611E0C2.title: "Cascading archwood sapling"
+	quest.6B3446D34FDA361B.title: "Wolf"
+	quest.6C6A4743FDA1DAA3.title: "Blazing archwood sapling"
+	quest.6E7B6CB2E83FD761.quest_desc: [
+		"Seasons have been added to add that little bit of spice."
+		""
+		"so do check when food grows so you aren't starving in the winter"
+	]
+	quest.6E7B6CB2E83FD761.title: "Seasons"
+	quest.70DF09439F7E00D1.title: "Sheep"
+	quest.721544B32A2E5DB4.title: "Sourceberry"
+	quest.728B36E0EB1655D3.title: "Bastion Fruit"
+	quest.753D341DF3569E20.title: "Mendosteen"
+	quest.7B7D3FF0CB289015.quest_desc: ["To get rid of those pesky Phantoms if you got no bed"]
+	quest.7B7D3FF0CB289015.title: "Bed"
+	task.0446EFFD689D45A5.title: "Birch log"
+	task.1374DDB5DB3D961B.title: "Bee nest"
+	task.13760CEF9F0F2A97.title: "Netherrack"
+	task.1411CFC34F42268B.title: "villager"
+	task.1800AFE517284A17.title: "Thank you!"
+	task.1AF823AEC0E40975.title: "Prismarine bricks"
+	task.1D251934C01F7EE7.title: "Wandering trader"
+	task.1FD1C3DDA50A46B0.title: "Phase 12"
+	task.20B8B1160A70A0DD.title: "Phase 11"
+	task.2BE5A0696CFB861C.title: "parrot"
+	task.2C68B36A1871AFEF.title: "W.I.P"
+	task.2D11136020BB3AD6.title: "Jungle log"
+	task.373D080F080AEB95.title: "welcome!"
+	task.3FD410DCDB3DD469.title: "Cherry log"
+	task.42FE8BB882D729B6.title: "Stone"
+	task.490239880EE064CC.title: "Toggle Phantoms"
+	task.4E21DB7898B62CE9.title: "Mangrove log"
+	task.5137EBF04064BCCA.title: "cat"
+	task.51E3A8E8ED837FCE.title: "Phase 10"
+	task.590086B0E6744370.title: "Final Phase"
+	task.5B4FF166AD382AEB.title: "Shop"
+	task.601CF3DECDDB6E40.title: "Spruce log"
+}

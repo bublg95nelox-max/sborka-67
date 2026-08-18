@@ -1,0 +1,57 @@
+{
+	autofocus_id: "40DBF4EA3FDCC1A0"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "first_steps"
+	group: ""
+	icon: {
+		id: "minecraft:apple"
+	}
+	id: "016AB6F1BDF4959B"
+	images: [{
+		click: "https://discord.gg/CpUXKhsJsY"
+		height: 1.0d
+		image: "jamlib:textures/gui/sprites/link_discord.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 0.0d
+		y: 3.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "40DBF4EA3FDCC1A0"
+			rewards: [{
+				id: "611085DD8647658F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "373D080F080AEB95"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "handcrafted:phantom_trophy"
+			}
+			id: "0BDDF38F519C44E0"
+			rewards: [{
+				command: "/gamerule doInsomnia false"
+				id: "2D0138E99FB1E50B"
+				permission_level: 2
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2ECC3B9AC51C062E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+	]
+}

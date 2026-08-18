@@ -1,0 +1,25 @@
+filename = 'occultcreate-2.0.0.jar'
+name = 'Occult Creations'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Occult Creations 1.21.1 - 2.0.0'
+
+[download]
+hash = 'c8c4faf6083553e5c621ae680002206f7f87497f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6252365
+project-id = 982483
+
+[[x-prismlauncher-dependencies]]
+addonId = '361026'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

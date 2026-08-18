@@ -1,0 +1,123 @@
+{
+	autofocus_id: "2ECB7A6D15AFEC36"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_10"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:cherry_sapling"
+	}
+	id: "26553335563EFE2C"
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			id: "22734F99A92A782F"
+			rewards: [{
+				id: "7BB5DE805D843785"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "04B04A0518F62D9E"
+				item: { count: 1, id: "minecraft:cherry_log" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "794DFF6C335C9202"
+			rewards: [{
+				id: "7C639AD46A166702"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "447052453DF24E0A"
+				item: { count: 1, id: "minecraft:cherry_sapling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "23A4F766787C281D"
+			rewards: [{
+				id: "294C8678C9CE8420"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1767E739E8BCE0E1"
+				item: { count: 1, id: "minecraft:pink_petals" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "5BF033ADB09C0078"
+			rewards: [{
+				id: "015B9990028AA960"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3D5E298A00D81FA4"
+				item: { count: 1, id: "minecraft:brush" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "67E0014360620DD7"
+			rewards: [{
+				id: "377C627F7D64798E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:goat"
+				id: "302311CC2243A1AD"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "0131A809D9177E38"
+			rewards: [{
+				id: "3F4229ED189990F9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:camel"
+				id: "641DB93F9324980C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "6AA60364ED86590C"
+			rewards: [{
+				id: "4CA4CAFB0D73BD5B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:allay"
+				id: "38DB016909721506"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+	]
+}

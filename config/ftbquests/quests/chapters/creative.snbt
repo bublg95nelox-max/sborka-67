@@ -1,0 +1,173 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "creative"
+	group: ""
+	id: "2BDFA4C9EB57E654"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "37106CD84F5BA386"
+			rewards: [
+				{
+					id: "6CA14FB51C11D0AB"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+				{
+					id: "67BAC1186A536C9A"
+					item: {
+						count: 1
+						id: "kubejs:steelwing_sphere"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2743998673724A4E"
+				item: { count: 1, id: "kubejs:steelwing_sphere" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37106CD84F5BA386"]
+			id: "3A4293C1A2D9DFB5"
+			rewards: [{
+				id: "4C40A09A60922A98"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "78BE70F85B7EA383"
+				item: { count: 1, id: "create:creative_motor" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["37106CD84F5BA386"]
+			id: "43B5AEC4C387E553"
+			rewards: [{
+				id: "1A622F6C2A19C7D2"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "557A328F5469C997"
+				item: { count: 1, id: "ars_nouveau:creative_source_jar" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["37106CD84F5BA386"]
+			id: "047DD6470B097D30"
+			rewards: [{
+				id: "60E2945637B17DBF"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "6EA985E90091C305"
+				item: { count: 1, id: "create:creative_blaze_cake" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["37106CD84F5BA386"]
+			id: "06C67627C2297F57"
+			rewards: [{
+				id: "5D04E3A2D8750D60"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "6FE740A90E993A50"
+				item: { count: 1, id: "ars_nouveau:creative_spell_book" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["37106CD84F5BA386"]
+			id: "428B4BC06A1BD86F"
+			rewards: [{
+				id: "456E3D51C58F590E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "3ECEC742A311801E"
+				item: { count: 1, id: "refinedstorage:creative_controller" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["37106CD84F5BA386"]
+			id: "48CF121F993427EC"
+			rewards: [{
+				id: "56C6A332999A8971"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "215A8397DD280E9C"
+				item: { count: 1, id: "refinedstorage:creative_storage_disk" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["37106CD84F5BA386"]
+			id: "09E545248F63BCF3"
+			rewards: [{
+				id: "794C651C7A5E0929"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "7A337441BFCCF268"
+				item: { count: 1, id: "easy_mob_farm:creative_speed_enhancement" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"09E545248F63BCF3"
+				"047DD6470B097D30"
+				"43B5AEC4C387E553"
+				"48CF121F993427EC"
+				"3A4293C1A2D9DFB5"
+				"428B4BC06A1BD86F"
+				"06C67627C2297F57"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "3E6816253E94BF59"
+			rewards: [{
+				id: "52302DE9FD0EEB64"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			tasks: [{
+				id: "1800AFE517284A17"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+	]
+}

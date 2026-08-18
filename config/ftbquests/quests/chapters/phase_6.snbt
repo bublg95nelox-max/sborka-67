@@ -1,0 +1,280 @@
+{
+	autofocus_id: "5EA11AAD20B601FF"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_6"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:cocoa_beans"
+	}
+	id: "4D47D2E2EB0E0983"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "24CA1AD8037FB7C8"
+			rewards: [{
+				id: "160F3D39D7070312"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1562CF5C10CB2BEE"
+				item: { count: 1, id: "minecraft:mossy_cobblestone" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "11DE835CE5CBED5C"
+			rewards: [{
+				id: "275757F7DEB35196"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "464A228488DF51CB"
+				item: { count: 1, id: "minecraft:jungle_log" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "723E392664719A56"
+			rewards: [{
+				id: "2A3DA0E33751D07C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "32371ACFE69CE46B"
+				item: { count: 1, id: "minecraft:redstone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "7348796CFEFAE46C"
+			rewards: [{
+				id: "73141070089F4A61"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2AE31C9E1BE6F624"
+				item: { count: 1, id: "minecraft:bamboo" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "13BA973132088D49"
+			rewards: [{
+				id: "5487F91E42F51CDD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "37CBE83ED386FE53"
+				item: { count: 1, id: "minecraft:cocoa_beans" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "726584119C9190E2"
+			rewards: [{
+				id: "727EDC9FAA1C0B59"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "27619C0FA98B9D87"
+				item: { count: 1, id: "minecraft:jungle_sapling" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "626849DE10C8880D"
+			rewards: [{
+				id: "029A45EB1FFC4345"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2D03BCE237B97DA3"
+				item: { count: 1, id: "minecraft:lead" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "3187E3D52A38CFB3"
+			rewards: [{
+				id: "62C693AFB20D5C42"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4729DFB1C4C4A776"
+				item: { count: 1, id: "minecraft:paper" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "5FDA52A2976620BF"
+			rewards: [{
+				id: "06572FE855317BFB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2BE1CD1E590B7C94"
+				item: { count: 1, id: "minecraft:sugar" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "2291E3DEF1F5F365"
+			rewards: [{
+				id: "18A50E4FDD4DC10A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0C2F5D5ADBF58989"
+				item: { count: 1, id: "minecraft:sugar_cane" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "312655E0657D1ABA"
+			rewards: [{
+				id: "22A3BFEF809F1976"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "63A2C11B3C378202"
+				item: { count: 1, id: "minecraft:vine" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "64FB1B14588A1E87"
+			rewards: [{
+				id: "36AA2363163109DB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:vex"
+				id: "39A0763526F49688"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "30B4F17EFFB606EE"
+			rewards: [{
+				id: "441EF5FF06A1108C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:horse"
+				id: "234F5CF33D466E33"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "121ECE1E4B0C948F"
+			rewards: [{
+				id: "2B95FB5F18A418D3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:ocelot"
+				id: "7F295BFA19782A6D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "5C97DF2A17F33E82"
+			rewards: [{
+				id: "2DBECEE72A26F9C2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:panda"
+				id: "7D060046F69F082C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "71E283A2A7104BF7"
+			rewards: [{
+				id: "748090444698C8D0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:parrot_spawn_egg"
+				}
+				id: "2BE5A0696CFB861C"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:parrot"
+				type: "observation"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "445FF8A7F73AAEB8"
+			rewards: [{
+				id: "163AD5E454A016CC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:witch"
+				id: "551E9C33C9477137"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+	]
+}

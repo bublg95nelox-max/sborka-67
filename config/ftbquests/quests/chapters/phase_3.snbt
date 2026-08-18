@@ -1,0 +1,338 @@
+{
+	autofocus_id: "189A35E8D9CF0013"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "phase_3"
+	group: "25E69D163A542113"
+	icon: {
+		id: "minecraft:ice"
+	}
+	id: "4F82E1B7CA476CE0"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6354B58AB4B3231F"
+			rewards: [{
+				id: "4A35E1BDF0F761AC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6723238093C7954D"
+				item: { count: 1, id: "minecraft:dark_oak_log" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "08AF6CB0F130384C"
+			rewards: [{
+				id: "7BD28F08607EFCCB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "32052B8B958CD541"
+				item: { count: 1, id: "minecraft:raw_gold" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "471C853F7FD1991D"
+			rewards: [{
+				id: "2BF048CE945D487F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "572CC2CB7F563D4A"
+				item: { count: 1, id: "minecraft:packed_ice" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "7E7253EBF639A429"
+			rewards: [{
+				id: "2B416BAB33DAF78E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7392B78641694452"
+				item: { count: 1, id: "minecraft:spruce_log" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "2577667AAA2C1248"
+			rewards: [{
+				id: "4AC151D22C4913B6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2694342972433A44"
+				item: { count: 1, id: "minecraft:powder_snow_bucket" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "56778BD4F2F0214E"
+			rewards: [{
+				id: "0C9238BF11A5486B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7BBD88E5644D88D3"
+				item: { count: 1, id: "minecraft:snow_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "1879651B8E87297F"
+			rewards: [{
+				id: "644EA09B980A3BAD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:fox"
+				id: "227A1391CE659247"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "7A33CBD2BCB9EB23"
+			rewards: [{
+				id: "5FF105DE251C09B3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:polar_bear"
+				id: "0BE2DEEF3774FBCE"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "6923B3996B51E867"
+			rewards: [{
+				id: "187783074B9F4101"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "minecraft:stray"
+				id: "2766867C1232A84E"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "6B3446D34FDA361B"
+			rewards: [{
+				id: "7E44CF07985BE11E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:wolf_spawn_egg"
+				}
+				id: "1BF6029054882839"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:wolf"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "61BDAC7B1DC94C86"
+			rewards: [{
+				id: "64CA0F3BE09B0B8B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "61CEA60D5094B8E9"
+				item: { count: 1, id: "minecraft:blue_ice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "246A2B2A9A622AFF"
+			rewards: [{
+				id: "37D150926DABDD03"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "715A23D51EFB629F"
+				item: { count: 1, id: "minecraft:bone" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "5DB06131F3A71CAA"
+			rewards: [{
+				id: "6E0BE142889E6A24"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "11BF59CDE56436E1"
+				item: { count: 1, id: "minecraft:bone_meal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "53772E223A6B7127"
+			rewards: [{
+				id: "405A38AE600BC1AA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "14183E68667C0CD1"
+				item: { count: 1, id: "minecraft:dark_oak_sapling" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "1381D455B42E0D1A"
+			rewards: [{
+				id: "2DE3DA7F59DCDE48"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4A9F7BCA8E497893"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "252CCC5758E5D063"
+			rewards: [{
+				id: "1033F91FE6F1E075"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0CC32C63CF1D017B"
+				item: { count: 1, id: "minecraft:ice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "0B6FA0E8904DC018"
+			rewards: [{
+				id: "6A21278404DD9FB1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6268D0FC42BFD4BB"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "185C5C3C87CC0A45"
+			rewards: [{
+				id: "537AAB263752CA4A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6E4EF4306BC72832"
+				item: { count: 1, id: "minecraft:rabbit_foot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			id: "0656E4275683F69C"
+			rewards: [{
+				id: "6EF03C1E651BC837"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4E7765A7492D6CD4"
+				item: { count: 1, id: "minecraft:rabbit_hide" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "3C4777487873839B"
+			rewards: [{
+				id: "43DBF2E91ECA2614"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "07B119505030282E"
+				item: { count: 1, id: "minecraft:snowball" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "22FEEA113074CA40"
+			rewards: [{
+				id: "3C78C9737BDCC278"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5A80A168B0509E43"
+				item: { count: 1, id: "create:raw_zinc" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+	]
+}
