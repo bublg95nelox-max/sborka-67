@@ -1,0 +1,25 @@
+filename = 'recipe_generator-0.3.0_release-neoforge-1.21.1.jar'
+name = 'Recipe Generator'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'recipe_generator-0.3.0_release-neoforge-1.21.1.jar'
+
+[download]
+hash = '0310f8542d41b97ac7a4e9a3971f0e2b60bc7120'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6456608
+project-id = 899032
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '239197'
+type = 'OPTIONAL'

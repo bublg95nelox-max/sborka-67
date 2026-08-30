@@ -1,0 +1,25 @@
+filename = 'createenchantablemachinery-3.3.4+mc1.21.1-neoforge.jar'
+name = 'Create: Enchantable Machinery'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create: Enchantable Machinery 3.3.4 NeoForge'
+
+[download]
+hash = '8912d900202fd9d3fdbc98642fcbf53b66518b28'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6514812
+project-id = 1061749
+
+[[x-prismlauncher-dependencies]]
+addonId = '351264'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'rightclickharvest-neoforge-4.5.3+1.21.1.jar'
+name = 'RightClickHarvest'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'V4.5.3+1.21.1 (NeoForge 1.21.1)'
+
+[download]
+hash = 'a25741cb92d2bbb924d199bd18f3f7ebda5a9c8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6326838
+project-id = 452834
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '623764'
+type = 'REQUIRED'
